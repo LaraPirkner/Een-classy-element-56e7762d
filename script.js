@@ -1,0 +1,1 @@
+var text = document.querySelector("h1").innerHTML = "Een classy element";
